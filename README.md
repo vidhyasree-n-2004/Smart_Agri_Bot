@@ -1,4 +1,3 @@
-# Smart_Agri_Bot
 # 🌱 Smart Agri Bot
 
 ## 📌 Overview
