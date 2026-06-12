@@ -48,11 +48,6 @@ Smart Agri Bot is an AI and IoT-based agricultural robot designed to assist farm
 - Solar-powered operation.
 - Machine Learning for irrigation prediction.
 
-## 📸 Project Images
-Add your project images in the `images` folder and update them here.
-
 ## 👨‍💻 Author
 **Vidhyasree**
 
-## 📜 License
-This project is intended for educational and academic purposes.
