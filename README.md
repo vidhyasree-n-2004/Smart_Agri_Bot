@@ -28,4 +28,31 @@ Smart Agri Bot is an AI and IoT-based agricultural robot designed to assist farm
 - IoT Integration
 - HTML, CSS, JavaScript (for dashboard, if applicable)
 
-## 📂 Project Structure
+## ⚙️ Working Principle
+1. Sensors collect soil moisture, temperature, and humidity data.
+2. The microcontroller processes the sensor readings.
+3. If soil moisture falls below a predefined threshold, the irrigation system is activated automatically.
+4. Environmental data can be displayed on a monitoring dashboard.
+5. The robot assists in efficient crop management and water conservation.
+
+## 🎯 Objectives
+- Reduce manual farming effort.
+- Improve water management.
+- Enable smart and sustainable agriculture.
+- Increase crop productivity through automation.
+
+## 📊 Future Enhancements
+- AI-based crop disease detection.
+- Mobile application integration.
+- Weather forecasting integration.
+- Solar-powered operation.
+- Machine Learning for irrigation prediction.
+
+## 📸 Project Images
+Add your project images in the `images` folder and update them here.
+
+## 👨‍💻 Author
+**Vidhyasree**
+
+## 📜 License
+This project is intended for educational and academic purposes.
